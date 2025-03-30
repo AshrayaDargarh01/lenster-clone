@@ -55,7 +55,7 @@ const { chain } = useAccount()
                 )}
               </svg>
             </button>
-            <img src="/src/assets/logo.png" alt="logo" className="w-10 h-10" />
+            <img src="/logo.png" alt="logo" className="w-10 h-10" />
           </div>
           <input
             type="text"

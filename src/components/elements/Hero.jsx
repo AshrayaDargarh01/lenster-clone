@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="w-[75%] mx-auto flex items-center ">
         {/* Header */}
         <div className="">
-        <img src="/src/assets/logo.png" alt="logo" className="w-36 " />
+        <img src="/logo.png" alt="logo" className="w-36 " />
 
         </div>
 
